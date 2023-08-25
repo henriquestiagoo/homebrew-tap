@@ -1,4 +1,4 @@
-class chatgpt < Formula
+class CLIChatGPT < Formula
   desc "A command line application written in Swift that interacts with the ChatGPT AI model."
   homepage "https://github.com/henriquestiagoo/cli-chatgpt"
   url "https://github.com/henriquestiagoo/cli-chatgpt/releases/download/v1.0.1/v1.0.1.tar.gz"
